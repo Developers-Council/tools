@@ -1,4 +1,4 @@
-import { DiscordApplicationCommandOptionTypes } from "../../../deps.ts";
+import { ApplicationCommandOptionTypes } from "../../../deps.ts";
 import translate from "../../languages/translate.ts";
 import { Embed } from "../../utils/Embed.ts";
 import { Command } from "../mod.ts";
